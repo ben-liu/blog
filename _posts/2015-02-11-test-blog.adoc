@@ -19,3 +19,20 @@ Line break attributes to...
 the following lines
 
 
+five admonition style labels:
+NOTE
+TIP
+IMPORTANT
+CAUTION
+WARNING
+
+
+Implicit literal text below:
+ ~/secure/vault/defops
+ 
+
+
+WARNING: Wolpertingers are known to nest in server racks.   
+Enter at your own risk.
+"warning" is uppercase, followed by a colon (:), and an empty space
+
