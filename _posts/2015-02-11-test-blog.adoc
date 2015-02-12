@@ -1,5 +1,21 @@
 = test blog
 :published_at: 2015-02-11
+:hardbreaks:
+
+
+Use ":" to define global attribute 
+
+
 
 
 this is a test
+
+Plus symbol is line break. Line 1 +
+and Line 2
+
+
+[%hardbreaks]
+Line break attributes to...
+the following lines
+
+
